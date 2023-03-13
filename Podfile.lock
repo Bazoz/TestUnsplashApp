@@ -1,0 +1,30 @@
+PODS:
+  - DeepDiff (2.3.1)
+  - netfox (1.21.0)
+  - SDWebImage (5.13.4):
+    - SDWebImage/Core (= 5.13.4)
+  - SDWebImage/Core (5.13.4)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - DeepDiff
+  - netfox
+  - SDWebImage
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - DeepDiff
+    - netfox
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  DeepDiff: e5ae6c50d0321568e4508cec5930b9f10bb293fc
+  netfox: 9d5cc727fe7576c4c7688a2504618a156b7d44b7
+  SDWebImage: e5cc87bf736e60f49592f307bdf9e157189298a3
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: baf896b0da6da3a61cd3c79d0c4655b099656701
+
+COCOAPODS: 1.11.3
